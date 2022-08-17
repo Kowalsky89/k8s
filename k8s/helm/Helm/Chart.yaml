@@ -1,0 +1,13 @@
+apiVersion: v2
+appVersion: 1.2.3
+description: Helm chart k8s
+keywords:
+- nginx
+- http
+- https
+maintainers:
+- email: ikuznecov089@gmail.com
+  name: Kent Kowalski
+name: HelmChart
+type: application
+version: 0.1.0
